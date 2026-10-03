@@ -10,7 +10,7 @@
 
 `images` 中由本人基于原作创作的角色改编图像，依 CC BY-NC-SA 4.0 授权；转载请保留署名、来源及许可证信息，二次创作须遵循相同许可证。
 
-原作为 [ZipZIpPipe](<https://space.bilibili.com/4168597>) 的[《大 AI 与小 AI 们》](<https://www.bilibili.com/video/BV1tE9XBbErS/>)，其版权声明为「依CC BY-NC-SA 4.0非商业使用，二创同协议授权」，使用的素材已原样存放于 `references`。
+原作为 [ZipZipPipe](<https://space.bilibili.com/4168597>) 的[《大 AI 与小 AI 们》](<https://www.bilibili.com/video/BV1tE9XBbErS/>)，其版权声明为「依CC BY-NC-SA 4.0非商业使用，二创同协议授权」，使用的素材已原样存放于 `references`。
 
 DeepSeek 鲸鱼娘：上善无形原创角色，ZipZipPipe 二次设计；本目录作品基于 ZipZipPipe 图像再创作。
 
