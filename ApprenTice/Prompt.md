@@ -2,7 +2,7 @@
 
 # 工作流
 
-基于 `references` 和 `image` 中的对应图片，使用以下 Girl 提示词创作 Girl 版本，再由 Girl 版本使用 Chibi 提示词创作 Chibi 版本。均使用 GPT image 2.5。
+基于 [README 中列出的参考来源](./README.md#参考来源)及 `images` 中的对应图片，使用以下 Girl 提示词创作 Girl 版本，再由 Girl 版本使用 Chibi 提示词创作 Chibi 版本。第三方参考图请从原始来源获取。均使用 GPT image 2.5。
 
 ## 画风提示词
 
