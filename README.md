@@ -27,5 +27,3 @@ If you believe that content in this repository infringes your legal rights or is
 ## License
 
 This repository may contain content from different authors, and the licensing terms for their contributions may differ. Please refer to the information in each author's directory for details.
-
-If you submit a new work, please state the author, reference sources, and licensing terms in your own directory.
