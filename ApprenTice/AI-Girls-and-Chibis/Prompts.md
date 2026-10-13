@@ -1,8 +1,8 @@
-本文记录 `images` 中的图像制作流程。
+本文记录 `AI-Girls-and-Chibis` 中的图像制作流程。
 
 # 工作流
 
-基于 [README 中列出的参考来源](./README.md#参考来源)及 `images` 中的对应图片，使用以下 Girl 提示词创作 Girl 版本，再由 Girl 版本使用 Chibi 提示词创作 Chibi 版本。第三方参考图请从原始来源获取。均使用 GPT image 2.5。
+基于 [README 中列出的参考来源](./README.md#第三方参考来源)及 `AI-Girls-and-Chibis` 中的对应图片，使用以下 Girl 提示词创作 Girl 版本，再由 Girl 版本使用 Chibi 提示词创作 Chibi 版本。第三方参考图请从原始来源获取。图片生成均使用 GPT image 系列。
 
 ## 画风提示词
 

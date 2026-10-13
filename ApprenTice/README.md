@@ -2,31 +2,10 @@
 
 作者：[ApprenTice](https://space.bilibili.com/634972797)
 
-## 作品说明
-
-本目录收录本人参考原作角色设计创作的 AI 拟人化图像，以及相关提示词和制作流程。
-
 ## 目录
 
-- [images](./images/)：本人创作的角色改编图像。
-- [Prompt.md](./Prompt.md)：提示词和制作流程。
-
-## 参考来源
-
-本目录作品参考了以下内容：
-
-1. [ZipZipPipe 的《大 AI 与小 AI 们》](https://www.bilibili.com/video/BV1tE9XBbErS/)
-2. [Bilibili 参考动态](https://www.bilibili.com/opus/1236341305800392709)
-
-第三方参考图片不在本目录中存放，请通过上述链接查看原始内容。
-
-DeepSeek 鲸鱼娘：上善无形原创角色，ZipZipPipe 二次设计；本目录作品基于 ZipZipPipe 图像再创作。
-
-## 授权说明
-
-`images` 中由本人基于原作创作的角色改编图像，依 CC BY-NC-SA 4.0 授权；转载请保留署名、来源及许可证信息，二次创作须遵循相同许可证。
-
-[ZipZipPipe](https://space.bilibili.com/4168597) 的《大 AI 与小 AI 们》原作版权声明为「依CC BY-NC-SA 4.0非商业使用，二创同协议授权」。其他参考内容的权利及授权以原作者声明为准。
+- [AI-Girls-and-Chibis](./AI-Girls-and-Chibis/)：AI 拟人角色图像，包含少女和 Q 版两个版本。
+- [DeepSeek-in-Ten-Different-Styles](./DeepSeek-in-Ten-Different-Styles)：不同风格的 DeepSeek 娘。
 
 ## 免责声明
 
