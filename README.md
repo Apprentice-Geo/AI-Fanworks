@@ -2,21 +2,15 @@
 
 English | [简体中文](<README.zh.md>)
 
-Collecting community fan creations related to various AIs, including character designs, artwork, prompts, creation workflows, and other related content.
-
-You are welcome to share your creations through a Pull Request.
+Inspired by the wave of AI-related fan creations in the [Bilibili](https://www.bilibili.com/), this repository collects fanworks related to various AIs, including character designs, artwork, prompts, creation workflows, and other related content.
 
 ## Contributing
 
-When submitting a work, please create a separate directory for yourself and state the author, reference sources (if any), and licensing terms in the README within that directory.
-
-Apart from this, there are currently no restrictions on the directory structure or form of content.
-
-For example, a directory may contain links to your own repository or creations instead of work files.
+Please see the [contribution guide](./CONTRIBUTING.md) for accepted content, submission instructions, and optional README templates. Work descriptions, prompts, Issues, and Pull Requests may be written in whichever language you are comfortable with.
 
 ## Disclaimer
 
-This repository is an unofficial community fan creation project. It has no official affiliation with any related AI products, projects, operators, or companies, and does not represent their views or endorsement.
+The content in this repository consists of unofficial community fan creations. It has no official affiliation with any related AI products, projects, operators, or companies, and does not represent their views.
 
 Unless otherwise stated, each contributor submits content solely on their own behalf. The maintainers only maintain and organize works submitted by other contributors; this does not constitute an endorsement or guarantee of their content, views, sources, or rights status.
 

@@ -1,4 +1,4 @@
-# ApprenTice 的 AI 二创
+# README
 
 作者：[ApprenTice](https://space.bilibili.com/634972797)
 
