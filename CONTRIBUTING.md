@@ -1,50 +1,50 @@
-# Contributing to AI-Fanworks
+# 为 AI-Fanworks 贡献内容
 
-English | [简体中文](./CONTRIBUTING.zh.md)
+简体中文 | [English](./CONTRIBUTING.en.md)
 
-Contributions of AI-related fan creations are welcome through Pull Requests.
-Work descriptions, prompts, Issues, and Pull Requests may be written in whichever language you are comfortable with.
+欢迎通过 Pull Request 贡献与 AI 相关的二创作品。
+作品说明、提示词、Issue 和 Pull Request 均可使用您熟悉的语言。
 
-## What to contribute
+## 接收内容
 
-This repository primarily stores images and documents, including character designs, artwork, prompts, and creation workflow descriptions. Remove API keys, credentials, private paths, and other personal information before submitting them. 
+本仓库主要存放图片和文档，包括角色设计、艺术作品、提示词和创作流程说明，提交前请移除 API 密钥、凭据、私人路径及其他个人信息。
 
-For videos, code projects, executable files, model weights, and other large resources, please share links instead of uploading the files to this repository. These works are welcome as linked contributions.
-You may also contribute an author directory containing only descriptions and links to your creations or your own repository.
+对于视频、代码项目、可执行文件、模型权重及其他大型资源，请通过链接分享，避免将文件直接上传至本仓库。欢迎以外链形式贡献这些作品。
+您的作者目录也可以只包含作品简介，以及指向个人创作或自有仓库的链接。
 
-## Organizing your contribution
+## 组织贡献内容
 
-Create a separate directory for yourself at the repository root, or add to your existing directory. Include a `README.md` with:
+请在仓库根目录为自己创建独立目录，或向您已有的个人目录中添加内容。目录中应包含一份 `README.md`，说明：
 
-- Your name or handle and, optionally, a profile link.
-- A brief description or an index of your works.
-- Reference sources, if any, with attribution and links.
-- Licensing terms for your contributions, or links to the terms in each work's subdirectory.
+- 您的名字或昵称，也可以附上个人主页链接。
+- 作品简介或作品目录。
+- 参考来源（如有），包括署名及来源链接。
+- 您的贡献内容采用的授权方式，或指向各作品子目录中授权说明的链接。
 
-Beyond these requirements, you can organize your directory as you prefer. For example, each series may have its own subdirectory containing images, prompts, and a README.
-You are encouraged to include the tools, models, prompts, and generation settings used, when useful and available; a fully reproducible workflow is not required.
+除此之外，您可以自行安排目录结构。例如，每个系列可以建立独立子目录，存放图片、提示词和 README。
+鼓励在有帮助且信息可获取的情况下，补充所用工具、模型、提示词和生成参数；不要求提供完全可复现的工作流。
 
-For external links, describe the content type, author, and purpose. Mention any login, payment, or download requirements.
+对于外链，请说明内容类型、作者和用途。如果需要登录、付费或下载，请提前注明。
 
-## Attribution and licensing
+## 署名与授权
 
-Only submit content that you have the right to share publicly here; for third-party reference materials, please provide links whenever possible.
-For adaptations or submissions on someone else's behalf, identify the original author and source.
+请仅提交您有权在此公开分享的内容,第三方参考资料请优先提供链接。
+对于改编作品或代他人提交的内容，请注明原作者和来源。
 
-There is no required repository-wide license for contributions. State the terms for your own work explicitly; a named license or an explicit "All Rights Reserved" notice is acceptable. If terms differ between works, document them in the relevant subdirectories and link to them from your author README.
-Keep your own licensing terms distinct from those of third-party material, and preserve applicable attribution and license notices.
+本仓库不要求所有贡献采用统一的许可证。请明确说明您自己作品的授权方式，可以指定许可证，也可以明确标注“保留所有权利（All Rights Reserved）”。如果不同作品采用不同条款，请在对应子目录中说明，并在作者 README 中提供链接。
+请区分您自己作品与第三方素材的授权条款，并保留适用的署名及许可证声明。
 
-## Submitting a Pull Request
+## 提交 Pull Request
 
-1. Add your works or links and update your author README.
-2. Check that images display, relative paths work, and external links point to the intended content. Check uploaded files for private information.
-3. Open a Pull Request with a brief description of what you added or changed.
+1. 添加作品或链接，并更新您的作者 README。
+2. 检查图片能否正常展示、相对路径是否有效、外链是否指向预期内容，并检查上传文件中是否包含私人信息。
+3. 创建 Pull Request，简要说明新增或修改的内容。
 
-Keep the Pull Request focused on your contribution. Avoid unrelated changes to other authors' works; submit corrections separately and explain them.
-Questions and suggestions can be raised in an Issue.
+请让 Pull Request 聚焦于本次贡献，避免夹带与之无关的其他作者作品改动；如需纠错，请单独提交并说明原因。
+问题和建议可以通过 Issue 提出。
 
-## Author README templates
+## 作者 README 模板
 
-Optional author README templates are available in [English](./README-template.md) and [Simplified Chinese](./README-template.zh.md).
+仓库提供可选的[英文模板](./README-template.md)和[简体中文模板](./README-template.zh.md)。
 
-Copy the template into your author directory as `README.md`, remove the introductory note and language links, and replace the placeholders. Adapt the descriptions and disclaimer to your works. Reference and licensing details may live in individual work READMEs if you link to them here.
+将模板复制到您的作者目录中，命名为 `README.md`，删除开头的使用说明和语言切换链接，并替换占位内容。请根据作品调整简介和免责声明。参考来源和授权信息也可以写在具体作品的 README 中，并在作者 README 中提供链接。

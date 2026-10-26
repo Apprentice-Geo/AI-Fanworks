@@ -1,23 +1,23 @@
 # AI-Fanworks
 
-English | [简体中文](<README.zh.md>)
+简体中文 | [English](<README.en.md>)
 
-Inspired by the wave of AI-related fan creations in the [Bilibili](https://www.bilibili.com/), this repository collects fanworks related to various AIs, including character designs, artwork, prompts, creation workflows, and other related content.
+受[哔哩哔哩](https://www.bilibili.com/)上的 AI 相关二创热潮启发，建立这个仓库收集各 AI 的二创，包括角色设计、艺术作品、提示词、制作流程及其他相关内容。
 
-## Contributing
+## 贡献指南
 
-Please see the [contribution guide](./CONTRIBUTING.md) for accepted content, submission instructions, and optional README templates. Work descriptions, prompts, Issues, and Pull Requests may be written in whichever language you are comfortable with.
+接收内容、提交方式和可选的 README 模板请参阅[贡献指南](./CONTRIBUTING.md)。作品说明、提示词、Issue 和 Pull Request 均可使用您熟悉的语言。
 
-## Disclaimer
+## 免责声明
 
-The content in this repository consists of unofficial community fan creations. It has no official affiliation with any related AI products, projects, operators, or companies, and does not represent their views.
+本仓库内容为非官方的社区二次创作项目，与相关 AI 产品、项目、运营主体及公司无任何官方关联，也不代表其立场。
 
-Unless otherwise stated, each contributor submits content solely on their own behalf. The maintainers only maintain and organize works submitted by other contributors; this does not constitute an endorsement or guarantee of their content, views, sources, or rights status.
+除特别注明外，各贡献者仅代表其本人提交内容。本仓库维护者对其他贡献者提交的作品仅进行项目维护与整理，不代表对其内容、观点、来源或权利状态作出认可或保证。
 
-Contributors should ensure that they have the right to submit and make the relevant content public.
+贡献者应确保其有权提交和公开相关内容。
 
-If you believe that content in this repository infringes your legal rights or is harmful, please contact the maintainers through an Issue.
+如认为仓库中的内容侵犯了你的合法权益，或认为仓库中的内容有害，请通过 Issue 联系维护者处理。
 
-## License
+## 授权说明
 
-This repository may contain content from different authors, and the licensing terms for their contributions may differ. Please refer to the information in each author's directory for details.
+本仓库可能包含来自不同作者的内容，各作者对其贡献内容的授权方式可能不同，具体请参阅对应作者目录中的说明。
