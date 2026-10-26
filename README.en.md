@@ -8,6 +8,14 @@ Inspired by the wave of AI-related fan creations in the [Bilibili](https://www.b
 
 Please see the [contribution guide](./CONTRIBUTING.en.md) for accepted content, submission instructions, and optional README templates. Work descriptions, prompts, Issues, and Pull Requests may be written in whichever language you are comfortable with.
 
+## Contributors
+
+Thank you to everyone who contributes artwork, documentation, and suggestions to this repository!
+
+[![Contributor avatars](https://contrib.rocks/image?repo=Apprentice-Geo/AI-Fanworks)](https://github.com/Apprentice-Geo/AI-Fanworks/graphs/contributors)
+
+This image shows GitHub commit contributors. For artwork credits and sources, please see each author's directory.
+
 ## Disclaimer
 
 The content in this repository consists of unofficial community fan creations. It has no official affiliation with any related AI products, projects, operators, or companies, and does not represent their views.

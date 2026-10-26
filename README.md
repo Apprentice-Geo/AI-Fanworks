@@ -8,6 +8,14 @@
 
 接收内容、提交方式和可选的 README 模板请参阅[贡献指南](./CONTRIBUTING.md)。作品说明、提示词、Issue 和 Pull Request 均可使用您熟悉的语言。
 
+## 贡献者
+
+感谢所有为本仓库贡献作品、文档和改进建议的朋友！
+
+[![贡献者头像](https://contrib.rocks/image?repo=Apprentice-Geo/AI-Fanworks)](https://github.com/Apprentice-Geo/AI-Fanworks/graphs/contributors)
+
+此处展示 GitHub 提交贡献者；作品作者及来源请参阅各作者目录。
+
 ## 免责声明
 
 本仓库内容为非官方的社区二次创作项目，与相关 AI 产品、项目、运营主体及公司无任何官方关联，也不代表其立场。
